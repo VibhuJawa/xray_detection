@@ -1,0 +1,9 @@
+*.pyc
+.git_old
+.idea
+*.epoch_*
+data/im1*
+.ipynb_checkpoints/
+data/*
+.DS_Store
+projectx*.model
