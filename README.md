@@ -1,5 +1,4 @@
-## Classify and localize Thoracic diseases using Deep Learning!¶
-# Highlights:
+# Classify and localize Thoracic diseases using Deep Learning!¶
 
 ## Transfer learning using Resnet50
 
