@@ -1,5 +1,7 @@
 # Classify and localize Thoracic diseases using Deep Learning
 
+We developed a system for finding and localizing thoracic diseases in X-rays using deep learining and computer vision techniques. Then we attempted to highlight the progression of a disease over the multiple visits of a patient
+
 ## Project Report
 [Project Report](CV_Final_Report.pdf)
 
